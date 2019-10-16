@@ -11,7 +11,7 @@ http://www2.dcc.ufmg.br/livros/algoritmos-java/cap7/transp/completo4/cap7.pdf
 ### Objetivos desse repositório:
 
 - [x] Criar uma grafo.
-- [ ] Matriz de Incidência
+- [x] Matriz de Incidência
 - [ ] Matriz de Adjacentes
 - [ ] Lista de Adjacentes
 
